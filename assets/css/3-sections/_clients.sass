@@ -22,7 +22,7 @@
 
       img
         max-width: 100px
-        border-radius: 50%
+        border-radius: 0%
 
 
       .client-name
@@ -51,7 +51,7 @@
   position: relative
   z-index: 3
   max-width: 750px
-  margin: 0px auto 100px
+  margin: 0px auto 10px
   +display(flex)
   +align-items(flex-end)
   +justify-content(space-around)
@@ -63,13 +63,12 @@
   .client-logo
     cursor: pointer
     margin: 0 20px 20px
-    padding-bottom: 20px
-    border-bottom: 4px solid transparent
     opacity: 0.5
+    filter: grayscale(1)
 
     &.active-client
       opacity: 1
-      border-bottom: 4px solid $accent
+      filter: none
 
 
 .client-quote-mark
@@ -148,10 +147,10 @@
         left: 6px
 
   .clients-logos
-    display: none
+    display: flex 
 
   .clients-mobile-nav
-    display: block
+    display: none
 
 
 @media (max-width: 600px)

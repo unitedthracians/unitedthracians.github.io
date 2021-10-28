@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: United Thracians
-description: World Music
+title: Demet Tuncer
+description: and the United Thracians
 email: unitedthracians@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
+- {name: About Us, url: '#about-me'}
+- {name: Musicians, url: '#clients'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Demet Tuncer and the United Thracians Music Band in Portland Oregon.'
+  rel-author: 'https://www.youtube.com/c/DemetTuncer/'
+  rel-publisher: 'http://aliergin.com'
 
 #-------------------------------
 # Google Analytics Section
@@ -75,30 +75,30 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+- {avatar: 'mic.png',
+  name: 'Demet Tuncer',
+  title: 'Vocal cord operations',
+  quote: '<p><strong>Demet is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
   logo: 'demet1.jpg'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+- {avatar: 'guitar.png',
+  name: 'Mesut Ali Ergin',
+  title: 'Sweeper for thin strings',
+  quote: '<p><strong>Mesut Ali is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
   logo: 'ali1.jpg'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+- {avatar: 'bass.png',
+  name: 'Bugra Kaytanli',
+  title: 'Dept of low frequency and thick strings',
+  quote: '<p><strong>Bugra is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
   logo: 'bugra1.jpg'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+- {avatar: 'keys.png',
+  name: 'Jan Porvas',
+  title: 'Locksmith for black&white keys',
+  quote: '<p><strong>Jan is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
   logo: 'jan1.jpg'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Blah Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+- {avatar: 'drums.png',
+  name: 'Cagri Tanriover',
+  title: 'Dept of resonators that can take a beating',
+  quote: '<p><strong>Cagri is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
   logo: 'cagri1.jpg'}
 
 #-------------------------------
