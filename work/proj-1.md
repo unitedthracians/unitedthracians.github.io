@@ -1,12 +1,7 @@
 ---
-title: Typo International Design Talks Stuff
+title: Pala Tute
 ---
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8qdttKsFns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
-
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
+Description

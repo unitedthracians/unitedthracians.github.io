@@ -1,6 +1,7 @@
 #-------------------------------
 # General Site Settings
 
+grandtitle: Demet Tuncer and the United Thracians
 title: Demet Tuncer
 description: and the United Thracians
 email: unitedthracians@gmail.com
@@ -39,11 +40,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
-
+  **Our band** has a story to tell you. We are musician nomads currently calling Porland, Oregon home and would like to share what we have seen and heard all these years of moving. Some people call it the world music -- it is just the music to us. Rest assured, come join us to hear a tune you may never have heard of before and indulge yourself in a convenient tour around the world.
 
 skills:
 - {name: Communication, value: '9'}
@@ -59,14 +56,12 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Pala Tute, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Sway, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Djelem, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Goreceksin Kendini, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Lela, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Bahcede, folder: 'proj-6', file: 'work/proj-6.html'}
 
 
 
@@ -78,7 +73,7 @@ clients:
 - {avatar: 'mic.png',
   name: 'Demet Tuncer',
   title: 'Vocal cord operations',
-  quote: '<p><strong>Demet is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
+  quote: '<p><strong>Demet</strong> is an actor, singer, digital content producer and performance artist known for combining acting and exceptional vocal talents. She studyied acting and musical theater, performed as lead singer in prestigious bands, such as Istanbul Gelisim, and held award-winning leading roles in well-known musical theater productions, such as Avenue Q, The Sound of Music, West Side Story, as well as performing in a wildly popular TV sitcom series Çocuklar Duymasın. Demet is working with United Thracians on her next musical storytelling project to celebrate diversity and culture through stories and songs from around the world. For more information on her work you can visit <a href="http://demettuncer.com" target="_blank">demettuncer.com</a></p>',
   logo: 'demet1.jpg'}
 - {avatar: 'guitar.png',
   name: 'Mesut Ali Ergin',

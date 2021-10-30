@@ -1,5 +1,7 @@
 ---
-title: Fresh It Up
+title: Lela
 ---
 
-![Fresh It Up]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CYVQjlJfpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Description
