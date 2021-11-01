@@ -101,9 +101,10 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCjovZOon63zZs7Ia7-oE6tA'}
 - {icon: 'twitter', link: 'http://twitter.com/UnitedThracians'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'instagram', link: 'https://www.instagram.com/unitedthracians/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/unitedthracians/'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
