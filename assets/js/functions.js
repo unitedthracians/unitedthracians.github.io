@@ -6,7 +6,7 @@ $(function() {
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$("header h3").fitText(1, { minFontSize: '16px', maxFontSize: '48px' });
-	$(".biglink").fitText(1.5);
+	//$(".biglink").fitText(1.5);
 
 	$('textarea').autosize();
 });
