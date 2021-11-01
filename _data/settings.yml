@@ -57,11 +57,12 @@ skills:
 
 projects:
 - {name: Pala Tute, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Medley, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Sway, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Djelem, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Goreceksin Kendini, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Lela, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Bahcede, folder: 'proj-6', file: 'work/proj-6.html'}
+# - {name: Bahcede, folder: 'proj-6', file: 'work/proj-6.html'}
 
 
 
@@ -78,7 +79,7 @@ clients:
 - {avatar: 'guitar.png',
   name: 'Mesut Ali Ergin',
   title: 'Sweeper for thin strings',
-  quote: '<p><strong>Mesut Ali is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
+  quote: '<p><strong>Mesut Ali</strong> was born and raised in Istanbul, Turkey. After dissecting a number of vintage instruments at early age, he was found fit for an instrument-less discipline and sent in singing for the school choir at grade school. He continued singing bass partitions for multiple choirs, including ITU Polyphonic, IU Polyphonic Choir as well as the Turkish Music Choir of the State Conservatory, as they studied under the direction of Prof. Serdar Ozturk. In the following years, Mesut Ali played the guitar and sang for various groups in Turkey and USA, and has been a proud member of United Thracians. He is also an avid sound engineer-wannabe, with experience in live sound reinforcement, system tuning and mixing.</p>',
   logo: 'ali1.jpg'}
 - {avatar: 'bass.png',
   name: 'Bugra Kaytanli',
@@ -88,12 +89,12 @@ clients:
 - {avatar: 'keys.png',
   name: 'Jan Porvas',
   title: 'Locksmith for black&white keys',
-  quote: '<p><strong>Jan is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
+  quote: '<p><strong>Jan</strong> was born in Tabriz, Iran in 1984 and started his music studies at early age with the drums and the keyboard. He explored classical music of Azerbaijan and started to compose by the time he was 10-years-old. Jan has been a professional musician since he was 17-years old and played the daf, the keyboard, the piano and the tanbur in various bands. He has worked with master artist Cavit Murtezaoglu and explored the philosophy of music and continued his career in spiritual and mysticial music. Along with his work in musical compositions and arrangements, Jan has been teaching many students to play the daf at all levels. For more information on Jan and his work, please visit <a href="http://janporvas.com" target="_blank">janporvas.com</a></p>',
   logo: 'jan1.jpg'}
 - {avatar: 'drums.png',
   name: 'Cagri Tanriover',
   title: 'Dept of resonators that can take a beating',
-  quote: '<p><strong>Cagri is .... </strong>Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.Short bio follows.</p>',
+  quote: '<p><strong>Cagri</strong> was born in 1974 in Germany to a family where nobody played any instruments at all, except a few talented whistlers. His first encounters with musical instruments include playing the snare drums as part of the grade school’s marching band and the electronic keyboard his father got him. However, Cagri’s dominating interest in electronics turned the keyboard into a spare parts source for his ongoing hobby projects. More recently, he started playing the cajon and the darbuka for United Thracians and happy to make music with a group of talented and experienced musicians who have been kind enough to let him jam along.</p>',
   logo: 'cagri1.jpg'}
 
 #-------------------------------
