@@ -110,6 +110,10 @@
     max-width: 100%
     margin-bottom: 20px
 
+  .yt-iframe
+    width: 560px
+    height: 315px
+
   .work-return
     +size(40px)
     cursor: pointer
@@ -125,10 +129,14 @@
 
 
 @media (max-width: 740px)
-  .work-container
 
+  .work-container
     .work-return
       left: 0px
+
+    .yt-iframe
+      width: 360px
+      height: 202px
 
     h4
       margin-left: 60px

@@ -1,7 +1,5 @@
 ---
 title: Pala Tute
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BOhO3MfnmP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe class="yt-iframe" src="https://www.youtube.com/embed/BOhO3MfnmP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Description
