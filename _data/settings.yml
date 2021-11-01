@@ -56,13 +56,13 @@ skills:
 # Work Section
 
 projects:
-- {name: Pala Tute, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Medley, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Sway, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Djelem, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Goreceksin Kendini, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Lela, folder: 'proj-5', file: 'work/proj-5.html'}
-# - {name: Bahcede, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Pala Tute, folder: 'proj-1', file: 'assets/html/work/proj-1.html'}
+- {name: Medley, folder: 'proj-7', file: 'assets/html/work/proj-7.html'}
+- {name: Sway, folder: 'proj-2', file: 'assets/html/work/proj-2.html'}
+- {name: Djelem, folder: 'proj-3', file: 'assets/html/work/proj-3.html'}
+- {name: Goreceksin Kendini, folder: 'proj-4', file: 'assets/html/work/proj-4.html'}
+- {name: Lela, folder: 'proj-5', file: 'assets/html/work/proj-5.html'}
+# - {name: Bahcede, folder: 'proj-6', file: 'assets/html/work/proj-6.html'}
 
 
 
