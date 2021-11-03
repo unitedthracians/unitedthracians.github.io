@@ -59,7 +59,7 @@ function  workLoad() {
 
     $('.project-load').html(spinner).load(url);
     $('.project-title').text(newTitle);
-    $('html, body').animate({ scrollTop: $('.thumb-container').offset().top + 300 }, 300);
+    $('html, body').animate({ scrollTop: $('.project-title').offset().top }, 300);
   });
 
 }
