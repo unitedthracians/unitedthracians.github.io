@@ -50,6 +50,8 @@ function  workLoad() {
   $.ajaxSetup({ cache: true });
 
   $('.thumb-container label').click(function() {
+
+    var target = $( $(this).attr('href') );
     var $this = $(this),
         newTitle = $this.find('strong').text(),
         url = $this.find('.thumb-unit').data('url');
@@ -57,6 +59,7 @@ function  workLoad() {
 
     $('.project-load').html(spinner).load(url);
     $('.project-title').text(newTitle);
+    $('html, body').animate({ scrollTop: $('.thumb-container').offset().top + 300 }, 300);
   });
 
 }

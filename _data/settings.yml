@@ -58,8 +58,8 @@ skills:
 projects:
 - {name: Pala Tute, folder: 'proj-1', file: 'assets/html/work/proj-1.html'}
 - {name: Medley, folder: 'proj-7', file: 'assets/html/work/proj-7.html'}
-- {name: Sway, folder: 'proj-2', file: 'assets/html/work/proj-2.html'}
-- {name: Djelem, folder: 'proj-3', file: 'assets/html/work/proj-3.html'}
+- {name: Sway / Perhaps, folder: 'proj-2', file: 'assets/html/work/proj-2.html'}
+- {name: Djelem Djelem, folder: 'proj-3', file: 'assets/html/work/proj-3.html'}
 - {name: Yedi Kocali Hurmuz, folder: 'proj-8', file: 'assets/html/work/proj-8.html'}
 - {name: Goreceksin Kendini, folder: 'proj-4', file: 'assets/html/work/proj-4.html'}
 - {name: Lela, folder: 'proj-5', file: 'assets/html/work/proj-5.html'}
