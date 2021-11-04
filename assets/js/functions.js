@@ -38,6 +38,9 @@ function workBelt() {
   });
 
   $('.work-return').click(function() {
+    $('.yt-iframe').each(function(){
+       this.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*')
+       });
     $('.work-belt').removeClass("slided");
     $('.work-container').hide(800);
   });
